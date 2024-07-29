@@ -14,7 +14,7 @@ function CarouselPage() {
                 <Carousel.Item className="carousel-item">
                 <img src={phone1} className="d-block carousel-image" alt="First slide" />
                     <Carousel.Caption>
-                        <h1 className="carousel-header">Get 5% discount on your first purchase</h1>
+                        <h1 className="carousel-header">Get 10% discount on your first purchase</h1>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item className="carousel-item">
